@@ -34,9 +34,9 @@ Projekt analizy sprzedaży z użyciem bazy Northwind, Power BI i zapytań SQL. C
 - Najbardziej dochodowa kategoria: Beverages
 
 ## 🖼️ Zrzuty ekranu
-![Dashboard](images/dashboard.png)
-![KPI](images/kpi.png)
-![Insights](images/insights.png)
+![Zobacz Dashboard](screenshots/Dashboard.png)
+![Zobacz KPI](screenshot/Kpi.png)
+![Zobacz Insights](screenshot/Insights.png)
 
 ## 📁 Pliki
 - `Northwind_Report.pbix` – raport Power BI
