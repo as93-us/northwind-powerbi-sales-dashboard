@@ -35,8 +35,8 @@ Projekt analizy sprzedaży z użyciem bazy Northwind, Power BI i zapytań SQL. C
 
 ## 🖼️ Zrzuty ekranu
 ![Zobacz Dashboard](screenshots/Dashboard.png)
-![Zobacz KPI](screenshot/Kpi.png)
-![Zobacz Insights](screenshot/Insights.png)
+![Zobacz KPI](screenshots/KPI.png)
+![Zobacz Insights](screenshots/Insights.png)
 
 ## 📁 Pliki
 - `Northwind_Report.pbix` – raport Power BI
